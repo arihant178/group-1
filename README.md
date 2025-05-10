@@ -68,6 +68,11 @@ docker push dockeruserari/todo-frontend
 ---
 
 ### ✅ Step 4: Set Up AWS EC2
+      Launch Ubuntu EC2 instance.
+
+      Install Docker & Docker Compose.
+
+     Pull your project and run:
 
 ```bash
 # Launch Ubuntu EC2, SSH in:
